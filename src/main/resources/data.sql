@@ -104,7 +104,7 @@ Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer al
 
 Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.', '#yellow', 'Billi', 'Laure', '2021-10-22 11:07:01', '2022-01-24 21:15:02'),
 ('jihoon', 'Donec semper sapien a libero.', 'In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.', '#pink', 'Terese', 'Dalli', '2021-07-04 02:06:12', '2021-10-27 03:27:56'),
-('jihoon''jihoon', 'Phasellus in felis.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+('jihoon', 'Phasellus in felis.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.', '#goldenrod', 'Arlen', 'Francoise', '2021-03-06 10:32:19', '2021-09-16 12:49:52'),
 ('jihoon', 'Etiam vel augue.', 'In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
